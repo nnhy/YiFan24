@@ -5,6 +5,6 @@
 一凡说：“妈妈，我知道了，我一定会加快速度的。”  
 于是，一凡找到了你，希望你能帮她写一个程序，来帮助她快速计算24点。  
 
-
 复赛题目：
-![image-20241231203718743](C:\Users\Stone\AppData\Roaming\Typora\typora-user-images\image-20241231203718743.png)
+
+![image-20241231203918237](assets/image-20241231203918237.png)
